@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://camo.githubusercontent.com/74d059f966f76c943415f2bc612b3238d61861ed434890127a5f51ce5128955d/68747470733a2f2f6d656469612e74656e6f722e636f6d2f595a506e477550655a763841414141642f636f64696e672e676966" align="center" style="width: 100%" />
+<img src="[https://camo.githubusercontent.com/74d059f966f76c943415f2bc612b3238d61861ed434890127a5f51ce5128955d/68747470733a2f2f6d656469612e74656e6f722e636f6d2f595a506e477550655a763841414141642f636f64696e672e676966](https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif)" align="center" style="width: 100%" />
 </div>  
   
 
@@ -28,14 +28,6 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
 
 </td></tr></table>  
 

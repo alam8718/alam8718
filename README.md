@@ -8,7 +8,7 @@
 
 ---
 
-- 🔗 Portfolio: [mohammadmahabubalam.netlify.app](https://mohammadmahabubalam.netlify.app/)
+- 🔗 Portfolio: [mahabub.site](https://mahabub.site)
 - 📫 Email: **mahabubalam3004@gmail.com**
 - ⚡ Fun fact: _"YoU give me MONEY, TIME, and Resources, I can learn **anything**."_ 💰⏳💻
 

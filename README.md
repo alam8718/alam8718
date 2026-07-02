@@ -53,9 +53,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alam8718&show_icons=true&theme=radical" alt="alam8718 GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alam8718&theme=radical" alt="alam8718 GitHub Streak" />
 </p>
